@@ -1,6 +1,6 @@
 name = "JuliaVlasov"
 uuid = "a6fc13a9-8b56-4a3f-85ad-d3f47fb09b2c"
-repo = "git@github.com:JuliaVlasov/Registry.git"
+repo = "https://github.com/JuliaVlasov/Registry.git"
 description = "Registry for Julia Vlasov packages"
 
 [packages]
