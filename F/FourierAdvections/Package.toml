@@ -1,0 +1,3 @@
+name = "FourierAdvections"
+uuid = "8df23fe6-dc7e-11e8-12cc-c736e45624c0"
+repo = "https://github.com/juliavlasov/FourierAdvections.jl"
