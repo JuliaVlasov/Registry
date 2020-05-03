@@ -4,3 +4,4 @@ repo = "git@github.com:JuliaVlasov/Registry.git"
 description = "Registry for Julia Vlasov packages"
 
 [packages]
+abe12ce6-d865-11e8-314f-3f926d5bd47d = { name = "SemiLagrangian", path = "S/SemiLagrangian" }
