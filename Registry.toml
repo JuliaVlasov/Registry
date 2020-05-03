@@ -4,5 +4,6 @@ repo = "https://github.com/JuliaVlasov/Registry.git"
 description = "Registry for Julia Vlasov packages"
 
 [packages]
+1ed3edb2-d8f2-11e8-0207-c98dd48976b5 = { name = "VlasovBase", path = "V/VlasovBase" }
 8df23fe6-dc7e-11e8-12cc-c736e45624c0 = { name = "FourierAdvections", path = "F/FourierAdvections" }
 abe12ce6-d865-11e8-314f-3f926d5bd47d = { name = "SemiLagrangian", path = "S/SemiLagrangian" }
